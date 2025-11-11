@@ -19,9 +19,9 @@ Welcome to my GitHub! Here you'll find some of the projects I've been working on
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 
-  <a href="mailto:fernandomvolpini@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
+ <a href="mailto:fernandomvolpini@gmail.com?subject=Contato%20via%20LinkedIn&body=Olá%20Fernando,%0D%0A%0D%0Avi%20seu%20perfil%20e%20gostaria%20de%20conversar.">
+  <img src="https://img.shields.io/badge/Gmail-333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
 
   <a href="https://www.linkedin.com/in/fernandomvolpini/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
