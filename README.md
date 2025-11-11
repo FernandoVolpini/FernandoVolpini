@@ -4,7 +4,7 @@ Welcome to my GitHub! Here you'll find some of the projects I've been working on
 
 ## 📌 About Me
 
-🎓 **Computer Engineering Student** (6th semester)  
+🎓 **Computer Engineering Student** (7th semester)  
 💻 **Focusing on Back-end Development**, mainly with **Python** and **Java**  
 📍 **Based in Ribeirão Preto, Brazil**  
 
