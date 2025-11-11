@@ -5,7 +5,7 @@ Welcome to my GitHub! Here you'll find some of the projects I've been working on
 ## 📌 About Me
 
 🎓 **Computer Engineering Student** (7th semester)  
-💻 **Focusing on Back-end Development**, mainly with **Python** and **Java**  
+💻 **Full Stack Developer (Focus on Back-End) | Python, Django, SQL, Oracle, MySQL | Database & API Development | Information Security** 
 📍 **Based in Ribeirão Preto, Brazil**  
 
 ---
