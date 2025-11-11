@@ -15,14 +15,22 @@ Welcome to my GitHub! Here you'll find some of the projects I've been working on
 ## 📫 Connect with Me
 
 <p>
-  <a href="https://github.com/FernandoVolpini" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="mailto:fernandomvolpini@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
-  <a href="https://www.linkedin.com/in/fernandomvolpini/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  <a href="https://www.instagram.com/fernando.m.volpini/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-</p>
+  <a href="https://github.com/FernandoVolpini" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 
+  <a href="mailto:fernandomvolpini@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+
+  <a href="https://www.linkedin.com/in/fernandomvolpini/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+
+  <a href="https://www.instagram.com/fernando.m.volpini/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
 ---
 
 ## 📊 GitHub Stats
